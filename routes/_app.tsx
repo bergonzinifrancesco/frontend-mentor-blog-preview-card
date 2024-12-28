@@ -11,9 +11,9 @@ export default function App({ Component }: PageProps) {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet" />
       </head>
-      <body>
+      <main class="h-svh w-svh bg-yellow flex items-center justify-center">
         <Component />
-      </body>
+      </main>
     </html>
   );
 }

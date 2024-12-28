@@ -18,7 +18,7 @@ export default {
         "300": "24px"
       },
       fontFamily: {
-        "serif": ["Figtree"]
+        "sans": ["Figtree"]
       },
       fontSize: {
         "2xl": ["24px", "1.5"],
