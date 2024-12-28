@@ -7,7 +7,7 @@ export default function Home() {
         <div role="region" class="flex gap-[12px] flex-col">
           <p class="font-bold text-gray-950 px-150 py-50 bg-yellow rounded-[4px] w-fit h-fit text-base">Learning</p>
           <p class="text-gray-950 text-base">Published 21 Dec 2023</p>
-          <button class="font-bold text-gray-950 text-lg hover:text-yellow place-self-start">HTML & CSS foundations</button>
+          <button class="font-bold text-gray-950 text-2xl hover:text-yellow place-self-start">HTML & CSS foundations</button>
           <p class="text-gray-500 text-xl">These languages are the backbone of every website, defining structure, content, and presentation.</p>
         </div>
         <footer class="flex flex-row gap-[12px] items-center">
